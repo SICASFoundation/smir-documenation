@@ -1,42 +1,21 @@
 ---
-title: Registration
+title: DICOM
 taxonomy:
     category: docs
 ---
 
-Lorem markdownum pius. Missa ultra adhuc ait reverti ubi soporem, **tibi iam**,
-esset, vates attonitas sede. Nympham Aeneia enim praecipuum poena Saturnia:
-fallis errabant, sub primo retro illo. Caesariem tincta natam contineat demens.
-*Si sed* ardescunt Delphice quasque alteraque servant.
+>>> Medical image
+>>> .dcm, d3c, none
 
-O caligine cadunt nuper, institerant candida numerum, nec interius retenta
-circumspectis avis. Orantemque invidit illius de nam lanient pax clarique aquam,
-poenae, alto noceat.
+# Digital Imaging and COmmunications in Medicine
 
-## Percussae oculos
+## Description
 
-Defendentia **flammas mundi salutem** fraudate, non munus revirescere tamen,
-imago? Ad sit festumque [super](http://hipstermerkel.tumblr.com/) et dat vix
-pererrato vero gigantas territus natus: nata quaque: quia vindice [temptare
-semina](http://www.lipsum.com/)! Erit **simulacraque miserere ipsos**, vinci, et
-ignibus *qua* si illa, consequitur nova. Constitit habet coniugis; coegit nostri
-in fuissem!
+DICOM — Digital Imaging and Communications in Medicine — is the international standard for medical images and related information (ISO 12052). It defines the formats for medical images that can be exchanged with the data and quality necessary for clinical use. DICOM is implemented in almost every radiology, cardiology imaging, and radiotherapy device (X-ray, CT, MRI, ultrasound, etc.), and increasingly in devices in other medical domains such as ophthalmology and dentistry. With tens of thousands of imaging devices in use, DICOM is one of the most widely deployed healthcare messaging standards in the world. There are literally billions of DICOM images currently in use for clinical care. Since its first publication in 1993, DICOM has revolutionized the practice of radiology, allowing the replacement of X-ray film with a fully digital workflow. Much as the Internet has become the platform for new consumer information applications, DICOM has enabled advanced medical imaging applications that have “changed the face of clinical medicine”. From the emergency department, to cardiac stress testing, to breast cancer detection, DICOM is the standard that makes medical imaging work — for doctors and for patients.
 
-Figit ait si venit, **spumantiaque functus** addit capillis superabat sperata
-vestra. In nymphas cervus eram feret lingua, hunc, nulla quae. Gens *artisque*
-ad peregit nitido cursu pondere. Petitur ex virtus, terrae infesto Circen: voce
-roganti latet. Exit hydrae, expellitur onerosa gratissima iniustum Clytii
-crimen.
+[Homepage]( http://medical.nema.org/)
 
-## Pactique in quibus pariterque praebebat mare dapes
+## Framework
 
-Sonat timeam furori non Sigei furiali os ut, orbe! Moveri frontem incertae
-clamor incurvis quid eadem est dubium timor; fila. Suos *trepidaeque* cornua
-sparsus.
+## Header and Anonyisation
 
-Mihi [aut palustribus](http://www.billmays.net/), natus semilacerque audito
-Enaesimus, fuerat refert. Aevi et evadere potentior Pergama sis.
-
-Tenuere manu aut alba mercede, sanguine Aeginam interdum arboreis sentiat
-genitor aptarique ire de sub vehebat. Aspera sedesque, et tempus deseruere
-contenta, rex interea nisi arma.
