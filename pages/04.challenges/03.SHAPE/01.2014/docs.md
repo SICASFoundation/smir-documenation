@@ -1,7 +1,7 @@
 ---
-title: Browse & Search
+title: SHAPE 2014
 taxonomy:
     category: docs
 ---
 
-tbd
+Tbd

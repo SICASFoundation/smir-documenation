@@ -1,5 +1,5 @@
 ---
-title: Advanced
+title: REST API
 taxonomy:
     category: docs
 child_type: docs
@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 3
 
-# Advanced
+# API
 
-Get into the **nitty gritty** with these advanced topics
+Get started with the **API**

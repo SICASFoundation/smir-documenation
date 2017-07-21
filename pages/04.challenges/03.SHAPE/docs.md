@@ -1,7 +1,7 @@
 ---
-title: Browse & Search
+title: SHAPE Challenge
 taxonomy:
     category: docs
 ---
 
-tbd
+Tbd

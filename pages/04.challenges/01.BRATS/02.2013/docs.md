@@ -1,7 +1,7 @@
 ---
-title: Browse & Search
+title: BRATS 2013
 taxonomy:
     category: docs
 ---
 
-tbd
+Tbd

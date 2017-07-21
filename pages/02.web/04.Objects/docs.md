@@ -4,7 +4,6 @@ taxonomy:
     category: docs
 ---
 
-# Objects
 
 Data sets are represented as **Objects** on SMIR. Each object has a unique ID, a set of meta data and object permission. The object's ID is static. This allows you to link permanently to an object. Additionaly, SMIR offers to create a [Digital object identifier](https://www.doi.org/) (DOI). Please read the [DOI section](#doi) for details and instructions.
 

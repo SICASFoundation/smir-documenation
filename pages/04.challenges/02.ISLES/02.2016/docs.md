@@ -1,7 +1,7 @@
 ---
-title: Browse & Search
+title: ISLES 2016
 taxonomy:
     category: docs
 ---
 
-tbd
+Tbd

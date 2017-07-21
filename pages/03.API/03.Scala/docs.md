@@ -1,7 +1,7 @@
 ---
-title: Browse & Search
+title: Scala 
 taxonomy:
     category: docs
 ---
 
-tbd
+Tbd

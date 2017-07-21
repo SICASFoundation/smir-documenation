@@ -1,5 +1,5 @@
 ---
-title: Browse & Search
+title: Introduction
 taxonomy:
     category: docs
 ---

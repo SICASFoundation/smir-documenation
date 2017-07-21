@@ -1,5 +1,5 @@
 ---
-title: Browse & Search
+title: ISLES Challenge
 taxonomy:
     category: docs
 ---

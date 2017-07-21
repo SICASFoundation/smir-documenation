@@ -1,7 +1,7 @@
 ---
-title: Browse & Search
+title: BRATS Challenge
 taxonomy:
     category: docs
 ---
 
-tbd
+Tbd

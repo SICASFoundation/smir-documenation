@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-# Virtual Groups
+
 A user can create and manage Virtual Groups. This can be used to easily apply permission to a custom set of users. User cannot apply to a Virtual Group. Only the creator of the Virtual Group can add and remove users. Hence, Virtual Group are not shown in the list of Research Units (e.g. in the  registration formular)
 
 ## Create virtual group
