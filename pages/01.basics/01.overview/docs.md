@@ -4,7 +4,9 @@ taxonomy:
     category: docs
 ---
 
- ![smir logo](../../../assets/smir-logo-90dpi.png)
+ ![smir logo](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-logo-90dpi.png)
+
+
 
 ## Overview
 

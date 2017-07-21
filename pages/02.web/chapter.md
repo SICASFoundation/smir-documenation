@@ -7,6 +7,6 @@ child_type: docs
 
 ### Chapter 2
 
-# Intermediate
+# Web
 
-Delve deeper into more **complex** topics
+Delve deeper into the **web** topics
