@@ -1,5 +1,5 @@
 ---
-title: Requirements
+title: Registration
 taxonomy:
     category: docs
 ---
