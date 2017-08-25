@@ -22,10 +22,10 @@ The DOI enables the citability data object stored on SMIR. This permanent identi
 
 DOI name is made up of a DOI prefix and a DOI suffix separated by a forward slash
 
-- Prefix for SMIR is `10.22016`
-- Suffix for SMIR object `o.SMIR-ID` (ID of the object)
+- Prefix for SMIR is **10.22016**
+- Suffix for SMIR object **o.SMIR-ID** (ID of the object)
 
-The DOI name can be resolved using the [DOI Lookup](http://dx.doi.org/) or by prefixing  `http://doi.org/` to the DOI name.
+The DOI name can be resolved using the [DOI Lookup](http://dx.doi.org/) or by prefixing  ** http://doi.org/ ** to the DOI name.
 
 A correct DOI link looks like this [http://doi.org/10.22016/smir.o.217900](http://doi.org/10.22016/smir.o.217900)  and resolves to the SMIR object with ID 217900.
 
@@ -35,7 +35,7 @@ A correct DOI link looks like this [http://doi.org/10.22016/smir.o.217900](http:
 - The DOI creation is irreversible and cannot be deleted.
 - The DOI registration can take up to 48 hours (until the DOI is active)
 
-> > Creating a DOI does not affect download permission. You only expose the meta-data (Details page) to the public. 
+>> Creating a DOI does not affect download permission. You only expose the meta-data (Details page) to the public. 
 
 ## Request
 
@@ -50,13 +50,10 @@ You have to confirm the DOI generation in the modal
 After you confirm the request:
 
 1. SMIR creates a valid DOI. Visible in the **File Information Section**.
-
 2. SMIR exposed the DOI and meta data to the Registration Agency (ETH Zurich)
-
 3. The Registration Agency collects the data and registers the DOI with DataCite 
-
 4. The DOI is active
 
-## Example DOI at DataCite Search:
+## Example DOI at DataCite Search
 
 ![Example DOI entry at DataCite Search](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-doi-at-datacite.png)
