@@ -15,8 +15,6 @@ Data sets are represented as **Objects** on SMIR. Each object has a unique ID, a
 
 `https://www.smir.ch/Objects/101597`
 
- 
-
 There are different *object types* to represent the type of the data set. Example *object types* are:
 
 - RAW Image like CT scan, MR Images, etc..
@@ -24,7 +22,7 @@ There are different *object types* to represent the type of the data set. Exampl
 - Surface models
 - Genetic data
 
-For a complete list check the [technical documentation section](http://smir-docs.readthedocs.io/en/latest/filetypes/).
+For a complete list check the [Supported Data Section](https://docs.smir.ch/basics/supported%20data.html).
 
 
 
@@ -34,9 +32,13 @@ SMIR uses a template to replace filenames after upload. This helps to identify w
 
 ### Naming template
 
-**Template**  `Namespace.Anatomy.Age.Gender.Modality.ID.Filenumber.Extension`
+**Template** 
 
-**Example** `SMIR.Right_scapula.56.M.OT.167141.000.stl`
+`Namespace.Anatomy.Age.Gender.Modality.ID.Filenumber.Extension`
+
+**Example** 
+
+`SMIR.Right_scapula.56.M.OT.167141.000.stl`
 
 -  Namespace: SMIR
 -  Anatomy: Right scapula
@@ -56,15 +58,30 @@ SMIR uses a template to replace filenames after upload. This helps to identify w
 
 ## Export meta data
 
-MMeta data of an object can be exported on the detail page. Available formats:
+Meta data of an object can be exported on the detail page. Available formats:
 
 - SMIR API (json)
-
 - Dublin core (xml)
 
-  ![smir-export-meta-data](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-export-meta-data.png)
+![Export Meta Data](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-export-meta-data.png)
 
 ## DOI
+
+A **creatd DOI** button is visible for all published objects. Use it to request a DOI.
+
+![Create DOI Button](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-create-doi-button.png)
+
+You have to confirm the DOI generation in the modal
+
+![Confirm DOI](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-confirm-doi.png)
+
+After you confirm the request:
+
+1. SMIR creates a valid DOI. Visible in the **File Information Section**.
+2. SMIR exposed the DOI and meta data to the Registration Agency (ETH Zurich)
+3. The Registration Agency collects the data and registers the DOI with DataCite 
+4. The DOI is active
+
 
 ##  Object permissions
 
@@ -78,26 +95,27 @@ Ech object has exactly one owner. But the owner can change (transfer) the owners
 
 - Owner change does not affect existing permissions!
 - You will lose control over the selected objects!
+
 ### Single object
 
-1. Open the Object's menu ![smir-object-menu](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-object-menu.png) 
+1. Open the Object's menu ![Object menue](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-object-menu.png) 
 
-2. Select `Change Owner` ![smir-owner2](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner2.png)
+2. Select **Change Owner** ![Owner](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner2.png)
 
 3. Search the new Owner and confirm the change in the modal to finish the process
 
-   ![smir-owner3](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner3.png)
+![Owner Confirm](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner3.png)
 
 ### Batch change
 
 1. Select multiple object using the checkboxes. 
-2. Select `Owner` in the the `Manage selected` drop-down menu
+2. Select **Owner** in the **Manage selected** drop-down menu
 
-![smir-owner1](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner1.png)
+![Owner](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner1.png)
 
 3. Search the new Owner and confirm the change in the modal to finish the process
 
-![smir-owner3](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner3.png)
+![Owner](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner3.png)
 
 ## License
 
@@ -111,21 +129,21 @@ The user can change the license in a object list view or on the object's detail 
 
 1. Login
 2. Navigate to the object
-3. Click on the menu icon ![smir-object-menu](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-object-menu.png)(list view)
-4. Select `Edit license`
+3. Click on the menu icon ![Object menue](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-object-menu.png)(list view)
+4. Select **Edit license**
 5. Select the license from the drop-down menu in the modal 
-   ![smir-license-modal](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-license-modal.png) 
-6. `Set license` to change  or `cancel`  to abort
+   ![License modal](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-license-modal.png) 
+6. **Set license** to change  or **cancel** to abort
 
 
 ### Batch license change
 
 1. Login
 2. Select the object and click on `Manage selected` and then `License`
-   ![smir-batch-license1](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-batch-license1.png)
+   ![License batched](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-batch-license1.png)
 3. Select the license from the drop-down menu in the modal
-   ![smir-batch-license-modal](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-batch-license-modal.png)
-4. `Set license` to change/save or `cancel` to abort
+   ![License batch modal](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-batch-license-modal.png)
+4. **Set license** to change/save or **cancel** to abort
 
 ##  Preview Images
 
@@ -140,10 +158,10 @@ The actual data is not displayed/accessable on SMIR. To use the data set, downlo
 Download are wrapped in a directory contains the following files and downloaded as compressed archive (zip)
 
 - Data files
-- Meta data file: `*.json`
-- Readme `README.md`
-- SMIR citation as Bibtex: `smir.bib`
-- License: `License_*.txt`
+- Meta data file: **.json**
+- Readme **README.md**
+- SMIR citation as Bibtex: **smir.bib**
+- License: **License_*.txt**
 
 ## Object lists
 

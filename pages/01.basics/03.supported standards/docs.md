@@ -1,5 +1,5 @@
 ---
-title: Supported standards
+title: Supported Standards
 taxonomy:
     category: docs
 ---
