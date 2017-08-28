@@ -8,7 +8,7 @@ taxonomy:
 
 >>> The DOI valid immediately and active withing 2 days.
 
->>> 10.22016/o.SMIR-ID, eg 10.22016/o.217896 
+>>> 10.22016/smir.o.SMIR-ID, eg 10.22016/smir.o.217896 
 
 ## Description
 
@@ -23,7 +23,7 @@ The DOI enables the citability data object stored on SMIR. This permanent identi
 DOI name is made up of a DOI prefix and a DOI suffix separated by a forward slash
 
 - Prefix for SMIR is **10.22016**
-- Suffix for SMIR object **o.SMIR-ID** (ID of the object)
+- Suffix for SMIR object **smir.o.SMIR-ID** (ID of the object)
 
 The DOI name can be resolved using the [DOI Lookup](http://dx.doi.org/) or by prefixing  ** http://doi.org/ ** to the DOI name.
 
