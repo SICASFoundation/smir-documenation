@@ -93,7 +93,9 @@ You get a **zip** with these files:
 
 ### Objects
 
-You can download individual or multiple object from the list.
+You can download individual, multiple object or all objects from the list. 
+- mark the objects to download using the checkboxes and download it using the **Download selected** button
+- **Download all** to download the all objects of the collection
 
 ![Download objects](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-download-collection-obj.png)
 
