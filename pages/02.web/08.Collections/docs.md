@@ -60,17 +60,19 @@ You can generate DOI for a single or multiple included objects.
 ![Create DOI for objects](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-create-doi-collection.png)
 
 ## Modifiy a collection
-You can add single objects or folder content to a collection
+You can add single objects or folder content to a collection using the **Add objects/folder** button
 
-![smir-add-object-to-collection](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-add-object-to-collection.png)
+![add objects or folder to collection](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-add-object-to-collection.png)
 
 ### Adding objects
 
-![smir-add-objects-modal](.https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-add-objects-modal.png)
+You can add indivdual object using their SMIR-ID to the collection
+
+![add objects modal](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-add-objects-modal.png)
 
 ### Adding folders
 
-![smir-add-folder-modal](.https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-add-folder-modal.png)
+![Add folder modal](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-add-folder-modal.png)
 
 
 ## Download
@@ -91,7 +93,9 @@ You get a **zip** with these files:
 
 ### Objects
 
-You can download individual or multiple object from the list.
+You can download individual, multiple object or all objects from the list. 
+- mark the objects to download using the checkboxes and download it using the **Download selected** button
+- **Download all** to download the all objects of the collection
 
 ![Download objects](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-download-collection-obj.png)
 
