@@ -63,15 +63,15 @@ You can generate DOI for a single or multiple included objects.
 ## Modifiy a collection
 You can add single objects or folder content to a collection
 
-![smir-add-object-to-collection](../../../assets/smir-add-object-to-collection.png)
+![smir-add-object-to-collection](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-add-object-to-collection.png)
 
 ### Adding objects
 
-![smir-add-objects-modal](../../../assets/smir-add-objects-modal.png)
+![smir-add-objects-modal](.https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-add-objects-modal.png)
 
 ### Adding folders
 
-![smir-add-folder-modal](../../../assets/smir-add-folder-modal.png)
+![smir-add-folder-modal](.https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-add-folder-modal.png)
 
 
 ## Download
