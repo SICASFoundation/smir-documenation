@@ -22,15 +22,30 @@ The description is prefilled with template text and is intended as a starting po
 - Use the **markdown** syntax. Here some usefull resource
   - [Markdown cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
   - [Syntaxt Documentation](https://daringfireball.net/projects/markdown/syntax)
-  - [Markdown Editor Typora](https://typora.io/). Cross-platform, Syntax and live preview,and wide range of export options.
-- Images can be inserted using base64 encoding or pointing to an external url
+  - [Markdown Editor Typora](https://typora.io/). Cross-platform, Syntax and live preview,and wide range of export options. 
+#### Images 
+Images can be inserted using base64 encoding or pointing to an URL
+
+##### URL 
+You can use the preview image URL or any other external URL
+
+1. Upload a preview image
+2. Open the preview image after upload
+3. Right click on the image in the popup and select **Copy Image Location**​
+4. Add this code where you want to display the image
+
+`![Caption](http://anyurl.org)`
+
+`![Caption](https://www.smir.ch/Handler/ObjectImage.ashx?objectId=214259&number=1&type=1&hash=B983F46522B91A3CD8C4CC011679CE9B3537877E)`
+
+##### Base64
   - Use the reference syntax
   - [Online base64 encoder](http://jpillora.com/base64-encoder/)
 
 ```markdown
   ![Image Caption][image]`
   ... content
-  [image]data:<base64imagecontent>
+  [image]:data:base64imagecontent_verylongstring
 ```
 
 ### Provide information
