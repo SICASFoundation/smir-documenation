@@ -26,12 +26,11 @@ The description is prefilled with template text and is intended as a starting po
 - Images can be inserted using base64 encoding or pointing to an external url
   - Use the reference syntax
   - [Online base64 encoder](http://jpillora.com/base64-encoder/)
+
 ```markdown
-![Image Caption][image]`
-
-... content
-
-[image]data:<base64imagecontent>
+  ![Image Caption][image]`
+  ... content
+  [image]data:<base64imagecontent>
 ```
 
 ### Provide information
