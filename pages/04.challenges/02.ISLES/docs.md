@@ -27,7 +27,7 @@ And here for SMIR:
 
 ## Information
 
-> > > > As of 29.01.2018 the Tables of results for the **testing** sets will update automatically every week (effectively every Monday 00:00 UTC).**
+!!! As of 29.01.2018 the Tables of results for the **testing** sets will update automatically every week (effectively every Monday 00:00 UTC).**
 
 This change reflects our motivation to minimize chances of model overtraining to the testing set, which we remarked was possible before due to the instant ranking of segmentation uploads. We hope that this will ensure a better comparison of your developments and reporting to the literature.
 
@@ -35,7 +35,6 @@ This change reflects our motivation to minimize chances of model overtraining to
 
  
 
-- ISLES 2016 users: We invite you to switch to the richer dataset **ISLES 2017**, as this is an expanded and enriched dataset from ISLES 2016 for prediction of lesion outcome.
+!**ISLES 2016 users**: We invite you to switch to the richer dataset **ISLES 2017**, as this is an expanded and enriched dataset from ISLES 2016 for prediction of lesion outcome.
 
-
-- The ISLES 2015 for both sub-acute ischemic stroke lesion (SISS), and stroke penumbra estimation (SPES) are still up and running, and are recommended benchmarks for these tasks.
+!**The ISLES 2015** for both sub-acute ischemic stroke lesion (SISS), and stroke penumbra estimation (SPES) are still up and running, and are recommended benchmarks for these tasks.
