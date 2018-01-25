@@ -16,3 +16,4 @@ For more information please visit [www.isles-challenge.org](http://www.isles-cha
 
 To participate proceed to our [SMIR ISLES 2015 page](https://www.virtualskeleton.ch/ISLES/Start2015)
 
+**ISLES 2015** features both sub-acute ischemic stroke lesion (SISS), and stroke penumbra estimation (SPES) benchmarks for these tasks. If you with to benchmark prediction of lesion outcome, please register to **ISLES 2017**.
