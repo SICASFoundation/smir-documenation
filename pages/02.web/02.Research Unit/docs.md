@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-Research Units are the organisational units on SMIR. The are administrated by a Research Unit Administratior. Member of a Research Unit have access to a shared group folder. Every user is member of a least one Research Unit and can be members
+Research Units are the organisational units on SMIR. The are administrated by a Research Unit Administratior. Member of a Research Unit have access to a shared group folder. Every user is member of a least one Research Unit and can be members of multiple Research Units.
 
 ## Research Unit Administrator
 
@@ -39,8 +39,7 @@ Please use the [ticket system](https://tickets.smir.ch) to request a Research Un
 4. Next
    1. If you do not have an account on SMIR, please continue with the description in the [user registration section](#account-registration). After registration, the SMIR administrator will accept your request and set you as Research Unit Administrator
       ![smir-registration-rua](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-registration-rua.png)
-   2. If you already have an account on SMIR, the SMIR administrator set you a you as Research Unit Administrator of this group. But your are not a member of the group automatically. To join your group, please follow the instruction in the [join a research unit](#join-a-research-unit). 
-
+   2. If you already have an account on SMIR, the SMIR administrator set you as Research Unit Administrator of this group. But your are not a member of the group automatically. To join your group, please follow the instruction in the [join a research unit](#join-a-research-unit). 
 
 
 ## Join a Research Unit
