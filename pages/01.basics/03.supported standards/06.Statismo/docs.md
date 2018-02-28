@@ -15,9 +15,12 @@ based on HDF5, which includes all the information necessary to use the
 model, as well as meta-data about the model creation, which helps to 
 make model building reproducible.
 
-[Homepage]([https://github.com/statismo/statismo](https://github.com/statismo/statismo))
+[Statismo (on github)](https://github.com/statismo/statismo)
 
 ## Framework
+
+- [Statismo](https://github.com/statismo/statismo)
+- [Scalismo](https://github.com/unibas-gravis/scalismo), Scala version of Statismo
 
 ## Processing
 ## Accepted files

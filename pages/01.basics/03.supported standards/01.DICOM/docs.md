@@ -17,5 +17,5 @@ DICOM — Digital Imaging and Communications in Medicine — is the internationa
 
 ## Framework
 
-## Header and Anonyisation
+## Header and Anonymisation
 
