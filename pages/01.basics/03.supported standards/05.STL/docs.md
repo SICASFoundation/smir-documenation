@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
->>> Surface model
->>> .stl (binary or text)
+! Surface model
+! .stl (binary or text)
 
 # STereoLithography
 
@@ -18,7 +18,7 @@ STL files describe only the surface geometry of a three-dimensional object witho
 
 ## Framework
 
-- 
+- ​
 
 ## Processing
 

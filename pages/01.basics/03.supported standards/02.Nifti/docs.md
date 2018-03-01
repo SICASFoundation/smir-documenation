@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
->>> Medical image
->>> .nii
+! Medical image
+! .nii
 
 # NIfTI-1 Data Format
 

@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
->>> Medical image
->>> .dcm, d3c, none
+! Medical image
+! .dcm, d3c, none
 
 # Digital Imaging and COmmunications in Medicine
 
