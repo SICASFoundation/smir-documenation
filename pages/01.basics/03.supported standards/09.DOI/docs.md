@@ -4,9 +4,9 @@ taxonomy:
     category: docs
 ---
 
-! Available for published objects
-! The DOI valid immediately and active withing 2 days.
-! 10.22016/smir.o.SMIR-ID, eg 10.22016/smir.o.217896 
+! - Available for published objects
+! - The DOI valid immediately and active withing 2 days.
+! - 10.22016/smir.o.SMIR-ID, eg 10.22016/smir.o.217896 
 
 ## Description
 
