@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-! Medical Image
-! .hdr + .img
+! - Medical Image
+! - .hdr + .img
 
 # ANALYZE 7.5
 

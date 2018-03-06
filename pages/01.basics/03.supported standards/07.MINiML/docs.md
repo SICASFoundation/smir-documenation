@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-! Genomics data (Sample, Series, Platform)
-! .xml
+! - Genomics data (Sample, Series, Platform)
+! - .xml
 
 # MIAME Notation in Markup Language
 

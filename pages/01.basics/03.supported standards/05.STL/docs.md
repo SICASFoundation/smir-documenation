@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-! Surface model
-! .stl (binary or text)
+! - Surface model
+! - .stl (binary or text)
 
 # STereoLithography
 

@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-! Statistical models
-! hdf5 or h5
+! - Statistical models
+! - hdf5 or h5
 
 # Statismo
 

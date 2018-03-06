@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-! Medical imags
-! mha, mhd+raw
+! - Medical imags
+! - mha, mhd+raw
 
 # MetaImage
 

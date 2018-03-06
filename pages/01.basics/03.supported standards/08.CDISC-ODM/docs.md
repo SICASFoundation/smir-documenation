@@ -4,8 +4,8 @@ taxonomy:
     category: docs
 ---
 
-! Clinical research form data
-! .xml
+! - Clinical research form data
+! - .xml
 
 # CDISC Operation Data Model
 
