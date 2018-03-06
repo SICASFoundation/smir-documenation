@@ -33,6 +33,10 @@ taxonomy:
 
 The surface model can be viewed on SMIR. The model can be rotated, translated and zoomed directly in browser.
 
+
+
+![surface model viewer](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-surface-viewer.png)
+
 ### Supported file types
 
 - [STL](https://docs.smir.ch/basics/supported%20standards/stl.html)
