@@ -4,7 +4,6 @@ taxonomy:
     category: docs
 ---
 
-![folder overview](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folders-collapsed.png)
 
 ## Structure
 
@@ -16,6 +15,8 @@ MyData:
   1. Project1
   2. Project2
 3. SharedFolders
+
+![folder overview](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folders-collapsed.png)
 
 
 ![folder overview](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-demo-myplaces.png)
@@ -44,7 +45,7 @@ The folders shared with you by other users are listed here
 
 ## Folder deletion
 
-! It is only possible to delete empty folder at the moment.
+! It is only possible to delete an empty folder at the moment.
 
 1. Navigate to the folder you want to remove
 2. Use the *Action > Delete Folder* menu entry to delete a folder. 
@@ -62,9 +63,9 @@ The folders shared with you by other users are listed here
 - Manage: allows to delete folders and manage sharing permission.
 
 ### Permission set
-- Viewers: share a folder, you control the content
-- Collaborators: collaboration folder 
-- Editors: 
+- Viewers: To share organized objects in a folder
+- Collaborators: Set up a folder for collaboration
+- Editors: to grant full access to folder options
 
 
 ### Single folder
@@ -74,7 +75,7 @@ The folders shared with you by other users are listed here
 3. Search the user/group and press *add* (repeat to add multiple users)
 3. *Save*
 
-![folder sharing](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-delete-folder-confirmation.png)
+![folder sharing](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folder-sharing.png)
 
 ### Multiple folders
 1. Navigate to the parent folder of the folder you want to share
@@ -83,6 +84,6 @@ The folders shared with you by other users are listed here
 3. Search the user/group and press *add* (repeat to add multiple users)
 3. *Save*
 
-![folder sharing](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-delete-folder-confirmation.png)
+![folder sharing](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folder-sharing.png)
 
-! Object permissions are not affected by folder sharing! You only define how other users can access the folder and view the contents. E.g.private objects in a shared folder stay inaccessable to other users. Example: An object is set to private and is added to a shared folder. Only the owner will see the object in this folders, other users do not.
+! Object permissions are not affected by folder sharing! You only define how other users can access the folder and view the contents. Example: An object is set to private and is added to a shared folder. Only the owner will see the object in this folders, other users do not.
