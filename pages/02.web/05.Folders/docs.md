@@ -6,19 +6,17 @@ taxonomy:
 
 ## Structure
 
-![folder overview](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folders-collapsed.png)
+![Folder overview](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folders-collapsed.png)
 
-### Group Folders
-
-Each research unit has its own group folder accessible by all members.
-
-### Project Folders
-
-This is the place to create/organize your data into projects. 
-
-### Shared Folders
-
-All folders shared with you by other users are listed here.
+- MyData
+  - Contains all your published data.
+  - To see your unpublished data navigate to [MySMIR > Unpublished Data](https://www.smir.ch/MyDB/UnpublishedData).
+- MyGroups
+  - Each research unit has its own group folder accessible by all members.
+- MyProjects
+  - This is the place to create/organize your data into projects. 
+- SharedFolders
+  - All folders shared with you by other users are listed here.
 
 ## Folder creation
 
@@ -29,14 +27,14 @@ All folders shared with you by other users are listed here.
 
 ## Folder deletion
 
-! It is only possible to delete an empty folder at the moment.
+! It is only possible to delete an empty folder.
 
 1. Navigate to the folder you want to remove.
 2. Use the *Action > Delete Folder* menu entry to delete a folder. 
-2. A popup will require you to confirm the deletion of the folder.
-3. Confirm the deletion.
+3. A popup will require you to confirm the deletion of the folder.
+4. Confirm the deletion.
 
-![folder deletion confirmation](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-delete-folder-confirmation.png)
+![Folder deletion confirmation](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-delete-folder-confirmation.png)
 
 ## Folder sharing & permissions
 
@@ -66,6 +64,6 @@ A permission set is a combination of multiple folder permissions.
 5. Search for the user/group and press *Add* (repeat to add multiple users).
 6. *Save*
 
-![folder sharing](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folder-sharing.png)
+![Folder sharing](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folder-sharing.png)
 
 ! Object permissions are not affected by folder sharing! You only define how other users can access the folder and view the contents. Example: An object is set to private and is added to a shared folder. In this case only the owner will see the object in this folder, other users do not.
