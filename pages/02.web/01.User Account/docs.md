@@ -17,7 +17,7 @@ process:
 
 ## Account setup
 
-Go to [MySMIR > Account & Settings](www.smir.ch/MyDB/Profile) to check your profile. Please consider adding a recovery email.
+Go to [MySMIR > Account & Settings](https://www.smir.ch/MyDB/Profile) to check your profile. Please consider adding a recovery email.
 
 - Title
 - Firstname
@@ -39,30 +39,29 @@ For now, use the [ticket system](https://tickets.smir.ch) to request a deletion:
 
 ### Locked account
 
-Description:    After 5 failed login atemps, your account will be locked for 10 minutes 
+Description: After 5 failed login atemps, your account will be locked for 10 minutes .
 
-Solution:    You can try again after waiting 10 minutes
+Solution: You can try again after waiting 10 minutes.
 
 ### Disabled account
 
-Description:  In case of missbehavior or similar reasons, the SMIR team can disable account. 
+Description: In case of missbehavior or similar reasons, the SMIR team can disable account. 
 
-Solution:  Contact us using our [ticket system](https://tickets.smir.ch)
+Solution: Contact us using our [ticket system](https://tickets.smir.ch)
 
+Description: You have lost your last Research Unit membership.
 
-Description: You have lost your last Research Unit membership
-
-Solution:  Contact us using our [ticket system](https://ticktets.smir.ch)
+Solution: Contact us using our [ticket system](https://ticktets.smir.ch)
 
 ### Invalid credentials
 
-Description: I forgot my password 
+Description: I forgot my password.
 
-Solution:  You can [reset your password](https://www.smir.ch/Account/LostPassword). Read the [password reset section](#password-reset) for instructions.
+Solution: You can [reset your password](https://www.smir.ch/Account/LostPassword). Read the [password reset section](#password-reset) for instructions.
 
 ## Password change
 
-The password can be changed on the [MySMIR > Account & Settings](www.smir.ch/MyDB/Profile) page. See the [password policy section](#password-policy) to create a valid password.
+The password can be changed on the [MySMIR > Account & Settings](https://www.smir.ch/MyDB/Profile) page. See the [password policy section](#password-policy) to create a valid password.
 
 ## Password policy
 

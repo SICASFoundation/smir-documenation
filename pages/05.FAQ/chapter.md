@@ -74,7 +74,7 @@ You will receive the email with the recovery instruction to the registration ema
 
 ### Disabled account
 
-- Description: In case of missbehavior or similar reasons, the VSD team can disable account. 
+- Description: In case of missbehavior or similar reasons, the SMIR team can disable account. 
 - Solution: Contact us through using our [ticket system](https://tickets.smir.ch)
 
 ### Invalid credentials

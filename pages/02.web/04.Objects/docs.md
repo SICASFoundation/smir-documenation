@@ -4,7 +4,7 @@ taxonomy:
     category: docs
 ---
 
-Data sets are represented as **Objects** on SMIR. Each object has a unique ID, a set of meta data and object permission. The object's ID is static. This allows you to link permanently to an object. Additionaly, SMIR offers to create a [Digital object identifier](https://www.doi.org/) (DOI). Please read the [DOI section](#doi) for details and instructions.
+Data sets are represented as **Objects** on SMIR. An object can consist of multiple files (e.g. DICOM series) or a single data file (e.g. statistical model). Objects can be related to each other. Related objects are visible in the Related data section of each object. After upload, the objects are only visible to the owner. These objects are called unpublished data. After curation by the owner (filling meta-data, reviewing the data, setting permissions), the data has to be pulished to make them available to other users. Each object has a unique SMIR-ID and is renamed according to the SMIR naming template. The original file name is only visible to the user who owns the data.
 
 **Link template**
 
@@ -16,8 +16,8 @@ Data sets are represented as **Objects** on SMIR. Each object has a unique ID, a
 
 There are different *object types* to represent the type of the data set. Example *object types* are:
 
-- RAW Image like CT scan, MR Images, etc..
-- Segementation of Images
+- RAW image like CT scan, MR images, etc.
+- Segementation of images
 - Surface models
 - Genetic data
 
@@ -62,20 +62,31 @@ Meta data of an object can be exported on the detail page. Available formats:
 
 ## DOI
 
-A **creatd DOI** button is visible for all published objects. Use it to request a DOI.
+SMIR signed an agreement with a DOI Registration Authority (ETH Zurich) to enable attaching a Digital Object Identifier (DOI) to any dataset published on the database. Building and curating data collections is difficult and time consuming. This permanent identifier will increase the visibility of the work by making reference to your datasets easy. Furthermore, the DOI published on SMIR are automatically registered on DataCite – a non-profit website, where these datasets are accessible for search based on their meta-information.
+
+! A DOI identifies an object permanently, even if the object changes its location, its owner or other characteristics. The DOI does this through redirection, using the Handle system.
+
+Further resources:
+
+- [DOI Lookup](http://dx.doi.org/)
+- [DataCite Search](https://search.datacite.org/)
+
+### DOI creation
+
+A **Create DOI** button is visible for all published objects and can be used to request a DOI.
 
 ![Create DOI Button](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-create-doi-button.png)
 
-You have to confirm the DOI generation in the modal
+A confirmation is needed in order to initate the DOI creation process.
 
 ![Confirm DOI](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-confirm-doi.png)
 
-After you confirm the request:
+After you confirm the DOI creation:
 
 1. SMIR creates a valid DOI. Visible in the **File Information Section**.
-2. SMIR exposed the DOI and meta data to the Registration Agency (ETH Zurich)
-3. The Registration Agency collects the data and registers the DOI with DataCite 
-4. The DOI is active
+2. SMIR exposes the DOI and meta data to the Registration Agency (ETH Zurich).
+3. The Registration Agency collects the data and registers the DOI with DataCite.
+4. After 48 hours the DOI is active.
 
 ##  Permissions
 

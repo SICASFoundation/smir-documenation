@@ -6,20 +6,7 @@ taxonomy:
 
 ## Structure
 
-MyData: 
-1. MyGroups
-  1. Group1
-  2. Group2
-2. MyProjects
-  1. Project1
-  2. Project2
-3. SharedFolders
-
 ![folder overview](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folders-collapsed.png)
-
-
-![folder overview](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-demo-myplaces.png)
-
 
 ### Group Folders
 
