@@ -1,5 +1,5 @@
 ---
-title: Browse & Search
+title: Search
 taxonomy:
     category: docs
 ---
@@ -8,7 +8,7 @@ taxonomy:
 ## Search bar
 
 - full text search
-- user `#` to search for SMIR-ID. You can add multiple to display all of them
+- use `#` to search for SMIR-ID. You can add multiple to display all of them
 `#1402 #1502 #1604`
 - use `@` to search for anatomical regions
 `@Brain`
@@ -17,15 +17,15 @@ taxonomy:
 
 ## Modular search
 
-You can execute simpel and more advanced (combined) search queries with the modular search. It is available in lists views (Browse, MyData, Folders)
+You can execute simple or more advanced (combined) search queries with the modular search. It is available in lists views (Browse, MyData, Folders)
 
 ![modular search](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-search-mod.png)
 
-The modular search uses the  `tripples` concept. These tripples can be combined using the logical operators `AND, OR`. Tripples consist of an subject, a predicate and the literal/object. On SMIR, subjects and predicates are predefinded lists while the literal is autocomplete field.
+The modular search uses the `triples` concept. These triples can be combined using the logical operators `AND, OR`. Triples consist of a subject, a predicate and the object/value. On SMIR, subjects and predicates are predefinded lists while the object/value is an autocomplete field.
 
 1. Subject: Type (), Object I, Subject ID, Anatomical Region
 1. Predicates: `=`, `!=`, `>`, `<`, `>=`, `<=`
-1. Literal/object: Autocomplete form (start typing to see the options)
+1. Object/value: Autocomplete form (start typing to see the options)
 
 ### Example 1: Type, search for segmentations
 

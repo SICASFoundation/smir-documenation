@@ -115,7 +115,7 @@ During the publishing procedure, the following default permissions are applied t
 
 ![Default permissions](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-default-object-permissions.png)
 
-Based on the default permissions all visitors (registred or not) know about the existence of the object which means they are allowed to read the metadata. However, only registered users are allowed to download the object.
+Based on the default permissions all visitors (registered or not) know about the existence of the object which means they are allowed to read the metadata. However, only registered users are allowed to download the object.
 
 ## Owner change
 
@@ -126,7 +126,7 @@ Ech object has exactly one owner. But the owner can change (transfer) the owners
 
 ### Single object
 
-1. Open the Object's menu ![Object menue](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-object-menu.png) 
+1. Open the Object's menu ![Object menu](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-object-menu.png) 
 
 2. Select **Change Owner** ![Owner](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner2.png)
 
@@ -136,12 +136,12 @@ Ech object has exactly one owner. But the owner can change (transfer) the owners
 
 ### Batch change
 
-1. Select multiple object using the checkboxes. 
-2. Select **Owner** in the **Manage selected** drop-down menu
+1. Select multiple objects using the checkboxes. 
+2. Select **Owner** in the **Manage selected** drop-down menu.
 
 ![Owner](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner1.png)
 
-3. Search the new Owner and confirm the change in the modal to finish the process
+3. Search the new Owner and confirm the change in the modal to finish the process.
 
 ![Owner](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-owner3.png)
 
