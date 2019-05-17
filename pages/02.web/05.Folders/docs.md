@@ -57,6 +57,9 @@ A permission set is a combination of multiple folder permissions.
 ![Permission sets](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folder-permission-sets.png)
 
 ### Sharing a folder
+
+![Folder sharing](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-folder-sharing.gif)
+
 1. Navigate to the folder you want to share.
 2. Use the *Folder menu > Share* menu entry. 
 3. Make sure you select the *Folders* tab.
