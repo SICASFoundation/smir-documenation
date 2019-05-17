@@ -4,7 +4,6 @@ taxonomy:
     category: docs
 ---
 
-
 Data sets are represented as **Objects** on SMIR. Each object has a unique ID, a set of meta data and object permission. The object's ID is static. This allows you to link permanently to an object. Additionaly, SMIR offers to create a [Digital object identifier](https://www.doi.org/) (DOI). Please read the [DOI section](#doi) for details and instructions.
 
 **Link template**
@@ -23,8 +22,6 @@ There are different *object types* to represent the type of the data set. Exampl
 - Genetic data
 
 For a complete list check the [Supported Data Section](https://docs.smir.ch/basics/supported%20data.html).
-
-
 
 ## Object names
 
@@ -48,11 +45,9 @@ SMIR uses a template to replace filenames after upload. This helps to identify w
 -  ID: 167141
 -  Extension: STereoLithography (stl)
 
-## Meta Data
+## Meta data
 
 ### General meta data
-
-
 
 ###  Type specific meta data
 
@@ -82,12 +77,34 @@ After you confirm the request:
 3. The Registration Agency collects the data and registers the DOI with DataCite 
 4. The DOI is active
 
+##  Permissions
 
-##  Object permissions
+The access to each object is defined based on fine-grained permissions.
+
+- **Visit** (V) allows the associated user/group to see the object (e.g. in a folder).
+- **Read** (R) allows the associated user/group to read the metadata of the object.
+- **Download** (D) allows the associated user/group to download the object.
+- **Edit** (E) allows the associated user/group to edit the object.
+- **Manage** (M) allows the associated user/group to manage the object (same permissions as the owner).
 
 ### Permission sets
 
-### Default permission
+A permission set is a combination of multiple object permissions.
+
+- **Protect** allows the associated user/group to see the object and read the metadata.
+- **Default** allows the associated user/group to download the object including the permissions of **Protect**.
+- **Collaborate** allows the associated user/group to edit the object including the permissions of **Default**. 
+- **Private** means the associated user/group is explicitely not allowed to see the object at all.
+
+![Permission sets](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-object-permission-sets.png)
+
+### Default permissions
+
+During the publishing procedure, the following default permissions are applied to each object. At any point it is possible to change or remove the permissions entirely as an owner of the object.
+
+![Default permissions](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-default-object-permissions.png)
+
+Based on the default permissions all visitors (registred or not) know about the existence of the object which means they are allowed to read the metadata. However, only registered users are allowed to download the object.
 
 ## Owner change
 
@@ -134,7 +151,6 @@ The user can change the license in a object list view or on the object's detail 
 5. Select the license from the drop-down menu in the modal 
    ![License modal](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-license-modal.png) 
 6. **Set license** to change  or **cancel** to abort
-
 
 ### Batch license change
 
