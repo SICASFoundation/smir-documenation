@@ -20,14 +20,25 @@ Everytime a user would like to join your Research Unit an email will be sent to 
 
 ## Research Unit Registration
 
-1. Fill the online [registration form](https://podio.com/webforms/7358442/593063). Make sure to accurately fill the fields, including an accessable website. If you fail to do so your request will not be processed.
-2. Wait for the SMIR administrator to check your submission and to setup your Research Unit. This is a manual process and can take up to 7 days.
+! At the moment, we only process request for 
+! - Data sharing collaborations projects
+! - Data collection publications
+
+
+
+1. The research unit administrator has to be registered on SMIR.ch. If you do not have an account on SMIR, please continue with the description in the [user registration section](#account-registration). After registration, the SMIR administrator will accept your request and sets you as Research Unit Administrator
+
+2. Fill the online [registration form](https://tickets.smir.ch/open.php), select`Register Research Unit` from the Help Topic dropdown menu . Make sure to accurately fill the fields, including an accessable website. If you fail to do so your request will not be processed.
+
+3. Wait for the SMIR administrator to check your submission and to setup your Research Unit. This is a manual process and can take up to 7 days.
    ![smir-registration-ru](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-registration-ru.png)
-3. You will receive an email once the Research Unit has been created.
-4. Next
-   1. If you do not have an account on SMIR, please continue with the description in the [user registration section](#account-registration). After registration, the SMIR administrator will accept your request and sets you as Research Unit Administrator
-      ![smir-registration-rua](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-registration-rua.png)
-   2. If you already have an account on SMIR, the SMIR administrator sets you as Research Unit Administrator of this group. But your are not a member of the group automatically. To join your group, please follow the instruction in the [join a research unit](#join-a-research-unit). 
+
+4. You will receive an email once the Research Unit has been created.
+
+5. The SMIR administrator sets you as Research Unit Administrator of this group. But your are not a member of the group automatically. To join your group, please follow the instruction in the [join a research unit](#join-a-research-unit). 
+
+
+   ![smir-registration-rua](https://github.com/SICASFoundation/smir-documenation/raw/master/assets/smir-registration-rua.png)
 
 ## Join a Research Unit
 
