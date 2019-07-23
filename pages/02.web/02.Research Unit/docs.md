@@ -20,7 +20,7 @@ Everytime a user would like to join your Research Unit an email will be sent to 
 
 ## Research Unit Registration
 
-! At the moment, we only process request for 
+! At the moment, we only process requests for 
 ! - Data sharing collaborations projects
 ! - Data collection publications
 
